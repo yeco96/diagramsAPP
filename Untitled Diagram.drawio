@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T02:24:20.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="0kKGcbEndvxLovno74c2" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T02:31:04.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="yEJho3LK6jkwitzbaarn" version="13.8.1" type="github">
   <diagram id="YVxtChNPSDXd9bMHDPXW" name="Page-1">
     <mxGraphModel dx="549" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,13 +35,16 @@
           <mxGeometry x="320" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dwQDwPdK_Mq-OzkKrwxO-13" value="Controles Específicos TI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="140" height="30" as="geometry" />
+          <mxGeometry x="660" y="240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dwQDwPdK_Mq-OzkKrwxO-14" value="Segregación de Funciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dwQDwPdK_Mq-OzkKrwxO-15" value="Controles Compensatorios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="230" y="360" width="150" height="30" as="geometry" />
+          <mxGeometry x="300" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwQDwPdK_Mq-OzkKrwxO-16" value="Auditoría de Sistemas basada en riesgos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
